@@ -1,0 +1,1 @@
+# azure-basic-embedding-01
